@@ -3,6 +3,7 @@ public class test2 {
 
         System.out.println("do something");
         System.out.println("add Somthing");
+        System.out.println("left branch add");
 
     }
 }
