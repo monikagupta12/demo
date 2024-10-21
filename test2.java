@@ -6,6 +6,8 @@ public class test2 {
         System.out.println("left branch add");
         System.out.println("confit change");
         System.out.println("check int leftbranch push");
+         System.out.println("nothing happend");
+        
 
     }
 }
